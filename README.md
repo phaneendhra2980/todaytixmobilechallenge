@@ -4,7 +4,7 @@ This is a quickstart mobile test automation framework devloped  with Java, maven
 
 ## Test Scenario
 
-- Download the TodayTix app from app store
+- Download the TodayTix app from Google Play store
 - Automate app for Todaytix in either ios/android and keep the location as London
 - Select a show like which has availability as for example "Dear Evan Hansen" and
   proceed with the booking of seats with minimum price for a day and proceed up
